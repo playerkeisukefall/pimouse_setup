@@ -1,2 +1,2 @@
-# raspimouse_setup
+# pimouse_setup
 ラズパイマウスのセットアップスクリプト（ラズパイで学ぶROSロボット入門を参考）
