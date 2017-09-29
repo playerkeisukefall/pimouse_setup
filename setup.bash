@@ -1,5 +1,5 @@
 #!/bin/bash -xve
-#Written by K.Hara
+#Written by Keisuke Hara
 
 exec 2> /tmp/setup.log
 
